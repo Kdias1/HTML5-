@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(31, 30, 30);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h1 {
+    color: rgb(197, 197, 240);
+}
+h2 {
+    color: rgb(189, 171, 171);
+}
+p {
+text-align: justify;
+color: beige;}
